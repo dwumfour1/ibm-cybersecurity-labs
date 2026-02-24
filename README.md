@@ -5,9 +5,9 @@ This repository documents my hands-on learning for the IBM SkillsBuild Cybersecu
 ---
 
 ## Microcredential 1: Governance,Risk,Compliance & Data Privacy
-- [Part 1: Data & Privacy](Microcredential_1_Data_Privacy/micro1.1-data-privacy.md)
-- [Part 2: Governance, Risk, Compliance](Microcredential_1_Data_Privacy/micro1.2-governance-risk-compliance.md)
-- [Part 3: Evaluate Data Security Posture](Microcredential_1_Data_Privacy/micro1.3-evaluate-data-security-posture.md)
+- [Part 1: Data & Privacy](Microcredential_1_GRC_Data_Privacy/micro1.1-data-privacy.md)
+- [Part 2: Governance, Risk, Compliance](Microcredential_1_GRC_Data_Privacy/micro1.2-governance-risk-compliance.md)
+- [Part 3: Evaluate Data Security Posture](Microcredential_1_GRC_Data_Privacy/micro1.3-evaluate-data-security-posture.md)
 
 ## Microcredential 2: Vulnerability Management
 - [Part 1: Threats and Vulnerabilities](Microcredential_2_Vulnerability_Management/micro2.1-threats-and-vulnerabilities.md)
