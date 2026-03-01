@@ -16,9 +16,11 @@ This repository documents my hands-on learning for the IBM SkillsBuild Cybersecu
 - [Part 3: Impact Analysis & Mitigation](Microcredential_2_Vulnerability_Management/micro2.3-impact-analysis.md)
 
 ## Microcredential 3: System & Network Security
-- Coming soon…
+- [Part 1: System Security](Microcredential_3_System_Network_Security/micro3.1-system-security.md)
+- [Part 2: Network Security](Microcredential_3_System_Network_Security/micro3.2-network-security.md)
+- [Part 3: Design a Secure Network](Microcredential_3_System_Network_Security/micro3.3-design-secure-network.md)
 
----
+
 
 ### How to Navigate
 1. Open the folder for the microcredential you want.  
