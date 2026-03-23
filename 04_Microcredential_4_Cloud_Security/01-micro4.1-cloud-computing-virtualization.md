@@ -13,7 +13,7 @@ You will learn to:
 ---
 
 ## Learning Objectives
-By the end of this module, you should be able to:
+By the end of this module, I am able to:
 
 1. Create and configure a virtual machine  
 2. Apply the appropriate cloud computing framework based on organizational needs  
